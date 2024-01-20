@@ -7,3 +7,5 @@ With a solid foundation built over four years as a senior data analyst, I bring 
 Passionate about leveraging analytics to drive informed business decisions. Let's turn raw data into meaningful narratives! 
 
 📊💼 #DataAnalytics #DataScience #BusinessAnalytics
+
+Link to my [Resume](https://github.com/mahammadarshad/My-Data-Analytics/blob/main/Arshad_Resume.pdf)
