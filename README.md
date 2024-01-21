@@ -1,6 +1,6 @@
 # Mahammad Arshad Ayub Shaik
 
-### About Me
+### About
 
 Hello there! 👋 I'm a Graduate Student specializing in Business Analytics, delving into the realms of Data Analytics and Data Science. 
 With a solid foundation built over four years as a Senior Data Analyst, I bring a wealth of experience in translating complex data into actionable insights. 
@@ -9,3 +9,19 @@ Passionate about leveraging analytics to drive informed business decisions. Let'
 #DataAnalytics #DataScience #BusinessAnalytics
 
 Link to my [Resume](https://github.com/mahammadarshad/My-Data-Analytics/blob/main/Arshad_Resume.pdf)
+
+### Table of Contents
+
+- [About](#about)
+- [Projects](#projects)
+	+ [Water Potability Prediction Analysis](#water-potability-prediction-analysis)
+
+
+### Projects
+
+#### Water Potability Prediction Analysis
+**Code:** [`water_potability_prediction.ipynb`](https://github.com/mahammadarshad/My-Data-Analytics/blob/main/water_potability_prediction.ipynb)
+<br>
+**Description:** To build a predictive model that accurately determines whether water is potable (safe for human consumption) or not based on various water quality metrics.
+The dataset contains several features representing different water quality metrics, such as pH, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, and Turbidity.
+Each entry in the dataset is labeled as either potable (1) or not potable (0), indicating whether the water is safe for human consumption.
