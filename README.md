@@ -15,8 +15,9 @@ Link to my [Resume](https://github.com/mahammadarshad/My-Data-Analytics/blob/mai
 - [About](#about)
 - [Projects](#projects)
 	+ [Water Potability Prediction Analysis](#water-potability-prediction-analysis)
-	+ [Object Detection System]()
-  	+ [Mental Health Data Analysis]()
+	+ [Mental Health Data Analysis]()
+  	+ [Object Detection System]()
+  	
 
 
 ### Projects
@@ -29,4 +30,10 @@ The dataset contains several features representing different water quality metri
 Each entry in the dataset is labeled as either potable (1) or not potable (0), indicating whether the water is safe for human consumption.
 
 #### Mental Health Data Analysis
-**Code:** []()
+**Code:** ['Reddit Data Curation'](https://github.com/mahammadarshad/mahammadarshad/blob/main/reddit_data_curation.ipynb)
+<br>
+**Description:** The Mental Health Data Analysis project involves extracting insights from social media specifically reddit users' data to understand patterns related to mental health conversations. It includes text mining, sentiment analysis and clustering techniques. By showcasing this project, I aim to highlight my ability to derive meaningful insights from unstructured text data. 
+
+#### Object Detection System
+**Code:** [Object Detection System`](https://github.com/mahammadarshad/mahammadarshad/blob/main/object_detection_system.ipynb)
+**Description:** Object detection is to detect or identify and locate objects within images. I started working on this project to play with images and improve my skills in computer vision and deep learning. It will highlight my ability to work with complex algorithms such as CNNs, transfer learning. 
