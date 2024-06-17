@@ -36,4 +36,5 @@ Each entry in the dataset is labeled as either potable (1) or not potable (0), i
 
 #### Object Detection System
 **Code:** [Object Detection System`](https://github.com/mahammadarshad/mahammadarshad/blob/main/object_detection_system.ipynb)
+<br>
 **Description:** Object detection is to detect or identify and locate objects within images. I started working on this project to play with images and improve my skills in computer vision and deep learning. It will highlight my ability to work with complex algorithms such as CNNs, transfer learning. 
